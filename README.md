@@ -7,5 +7,9 @@ mv the file to remote
 git fetch
 My branches chnages to check the git repo
 pull request
+<<<<<<< HEAD
 my branch
 Hi there this branch
+=======
+Hi chnaging the mesg
+>>>>>>> master
